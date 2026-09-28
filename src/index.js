@@ -4,3 +4,4 @@ function sayHi(name) {
 
 module.exports = sayHi
 // CI test
+// review rule test
